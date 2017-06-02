@@ -1,4 +1,4 @@
-<h1><img width="25" height="25" src="data:image/gif;base64,R0lGODlhFAAUAJEAAAKEAq3Yrfz9/DihOCwAAAAAFAAUAEACZMyOEyKWZ4AaQLYKFq3jVs0FAbYwzPhFFpoxW8eCa4hginpgWYx77aji+GQ52FDwamxkOsmCpcs1f5tm50TqxbAfpHArIx5fFCmM5LVVz91XZPJEu7fjkKoENTMRosfBhOQXUAAAOw=="/> FFMPEG Fixes Your Video Files &nbsp; <sub><a target="_blank" href="https://paypal.me/e1adkarak0" rel="nofollow"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png" width="60" height="16" border="0" alt="PayPal Donation"></a></sub></h1>
+<h1><img width="25" height="25" src="https://i.imgur.com/E85KYmJ.png"/> FFMPEG Fixes Your Video Files &nbsp; <sub><a target="_blank" href="https://paypal.me/e1adkarak0" rel="nofollow"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png" width="60" height="16" border="0" alt="PayPal Donation"></a></sub></h1>
 
 <h2>A Complete Package of FFMPEG Binaries<br/>And Batch File, You Can Drag&Drop Your Files Over<br/>To Generate A <strong>Compatible</strong>, <strong>Fixed</strong> <em>(when needed)</em>, <strong>Synchronized</strong><br/>Video File.</h2>
 
